@@ -1,12 +1,15 @@
 # NEO SPCC Demo Page
 ## NeoFS 
 ### Videos 
-#### Conferences 
-##### Consensus 2019
-On May 14th, NEO St. Petersburg Competence Center co-founder Sergei Liubich presented the R&D team’s flagship project, NeoFS, at Consensus 2019 in New York. 
-In the presentation, Liubich noted the requirements and issues present in the data storage market and demonstrated the functionality of the NeoFS distributed decentralized storage platform.
+#### Webinars 
+##### NEO Community Assembly 2019
+NeoFS Webinar: Architecture of decentralized object storage
 
-[![NeoFS Consensus 2019](https://img.youtube.com/vi/7lXmU_gLIbE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7lXmU_gLIbE "NeoFS Consensus 2019")
+[![NeoFS Architecture](https://img.youtube.com/vi/2o44JvXyy0o/maxresdefault.jpg)](https://www.youtube.com/watch?v=2o44JvXyy0o "NeoFS-local demo")
+
+Demo of the NeoFS-local usage
+
+[![NeoFS-local demo](https://img.youtube.com/vi/4f_q5mVsiXY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4f_q5mVsiXY "NeoFS-local demo")
 
 #### Series of introductory videos about NeoFS design
 ##### NeoFS Introduction - Episode 1: System Overview
@@ -38,6 +41,12 @@ has stored by forcing it to play a data validation game with another node.
 
 [![How-To-NeoFS-4](https://img.youtube.com/vi/SzwpZf4k0W8/maxresdefault.jpg)](https://www.youtube.com/watch?v=SzwpZf4k0W8 "How to NeoFS 4: Data Audit")
 
+#### Conferences 
+##### Consensus 2019
+On May 14th, NEO St. Petersburg Competence Center co-founder Sergei Liubich presented the R&D team’s flagship project, NeoFS, at Consensus 2019 in New York. 
+In the presentation, Liubich noted the requirements and issues present in the data storage market and demonstrated the functionality of the NeoFS distributed decentralized storage platform.
+
+[![NeoFS Consensus 2019](https://img.youtube.com/vi/7lXmU_gLIbE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7lXmU_gLIbE "NeoFS Consensus 2019")
 
 ### Links
 - [Research plan](https://github.com/nspcc-dev/research-plan)
